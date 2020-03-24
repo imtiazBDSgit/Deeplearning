@@ -6,12 +6,8 @@ layout: home
 search: exclude
 ---
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
+This site is built for my own understanding of concepts and possibly to those who are in the same boat as I am !
 
-![](images/diagram.png "https://github.com/fastai/fastpages")
-
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
-
-You can edit the `index.md` file to change this content.
+![](images/beachstudy.jpg)
 
 # Posts
